@@ -2,7 +2,8 @@
 - 👀 저는 현재 front-end에 관심을 가지고 공부를 하고 있습니다. 
 - 🌱 현재 TypeScript와 React를 공부 중이고 이외에 front-end 업무에 필요한 것들을 찾아서 지식을 쌓고 있습니다.
 - 📫 저에게 연락을 하기위해서는 anshqhsh.dev@gmail.com에 연락을 주시면 됩니다. 
-
+- Portfolio link : https://anshqhsh.github.io/portfolio
+- Notion link : https://www.notion.so/JOONHYUK-fd7fe7adae3440889b83a8742d5272e8
 <!---
 anshqhsh/anshqhsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
