@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 📖 원어로된 개발문서를 읽고 적용할 수 있습니다.
 - 📫 저에게 연락을 하기위해서는 anshqhsh.dev@gmail.com에 연락을 주시면 됩니다. 
 - Notion link : https://www.notion.so/JOONHYUK-fd7fe7adae3440889b83a8742d5272e8
-- 
-<h3>👩🏻‍💻 Tech Stack</h3>
+
+<h3>👩🏻‍💻 Stacks</h3>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style-for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style-for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style-for-the-badge&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/Scss-CC6699?style-for-the-badge&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style-for-the-badge&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style-for-the-badge&logo=Node.js&logoColor=white"/>
 
