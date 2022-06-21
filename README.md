@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 안녕하세요 더 나은 서비스를 제공하는 개발자를 꿈꾸는 이준혁입니다.
+- 👀 저는 front-end에 관련한 기술들을 보유하고 있습니다. 
+- 🌱 협업하기 좋은 코드를 짜기 위해서 prettier와 lint를 이용하여 개발을 하고 있습니다.
+- 📖 원어로된 개발문서를 읽고 적용할 수 있습니다.
+- 📫 저에게 연락을 하기위해서는 anshqhsh.dev@gmail.com에 연락을 주시면 됩니다. 
+- Notion link : https://www.notion.so/JOONHYUK-fd7fe7adae3440889b83a8742d5272e8
