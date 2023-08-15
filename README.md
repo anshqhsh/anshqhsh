@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 🌱 빠르게 변화하는 기술 시장의 트렌드에 민감하고, 다양한 기술들을 익히는 것을 즐깁니다.
 - 📖 공식 문서를 기반으로 하여 기술 개발에 응용력이 매우 빠릅니다.
 - 🤔 개발에 앞서 로직에 대한 고민을 충분히 할 수 있습니다.
-- 📫 저에게 연락을 하기위해서는 anshqhsh.dev@gmail.com에 연락을 주시면 됩니다. 
+
+### contact
+- 📫 anshqhsh.dev@gmail.com
 
 <h3>👩🏻‍💻 Stacks</h3>
 
